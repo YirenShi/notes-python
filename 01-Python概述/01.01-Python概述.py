@@ -49,7 +49,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 这首诗反映了Python的设计哲学——Python是一种追求优雅，明确，简单的编程语言，但事实上，产生这首诗的代码并没有写的那么简单易懂：
 In [3]:
-s = """Gur Mra bs Clguba, ol Gvz Crgref
+s = Gur Mra bs Clguba, ol Gvz Crgref
 
 Ornhgvshy vf orggre guna htyl.
 Rkcyvpvg vf orggre guna vzcyvpvg.
@@ -69,7 +69,7 @@ Abj vf orggre guna arire.
 Nygubhtu arire vf bsgra orggre guna *evtug* abj.
 Vs gur vzcyrzragngvba vf uneq gb rkcynva, vg'f n onq vqrn.
 Vs gur vzcyrzragngvba vf rnfl gb rkcynva, vg znl or n tbbq vqrn.
-Anzrfcnprf ner bar ubaxvat terng vqrn -- yrg'f qb zber bs gubfr!"""
+Anzrfcnprf ner bar ubaxvat terng vqrn -- yrg'f qb zber bs gubfr!
 
 d = {}
 for c in (65, 97):
