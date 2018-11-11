@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f82c2e-62bd-408e-8764-4effc7d50194" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-Python基础/02.16-类型转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Python基础/02.21-布尔值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.01-while语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.02-list列表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.03-条件控制语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.04-break语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.05-turtle模块绘图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.06-set集合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.07-迭代器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.08-函数概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Python实操/03.09-return返回值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Python基础/02.03-数字 实例.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Python基础/02.03-数字概念.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-Python基础/02.03-数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Python基础/02.16-列表推导式.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-Python基础/02.22-列表推导式.py" afterDir="false" />
-    </list>
+    <list default="true" id="24f82c2e-62bd-408e-8764-4effc7d50194" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +24,19 @@
     <session id="-1457392463">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="58" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="58" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -71,12 +56,8 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/project/44函数的参数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
+        <entry file="file://E:/project/96银行自动提款机系统/Admin.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -174,7 +155,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/project/96银行自动提款机系统" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -333,7 +314,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -346,7 +326,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,13 +356,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-Python基础/02.07-可变和不可变类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-Python基础/02.08-元组.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -711,6 +684,9 @@
           <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://E:/project/96银行自动提款机系统/Admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
