@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+    <h1>sunck is a nice man</h1>
+    <h1>{{stu.sname}}</h1>
+    <h1>num = *{{num}}*</h1>
+    <h1>{{stu.getName}}</h1>
+
+    {%if num %}
+    <h1>sunck is a hgood man </h1>
+
+
+    {%endif%}
+    {%comment%}
+    <h1>sunck is a nice man</h1>
+    <h1>sunck is a handsome man</h1>
+
+    {%endcomment%}
+
+
+    {% ifequal 'sunck' 'sunck'%}
+        <h1>sunck is a handsome man</h1>
+    {% endifequal %}
+
+</body>
+</html>
